@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "Male",
+    "avgWaga": 70.00180785329879,
+    "maxWaga": 87.67,
+    "minWaga": 52.34,
+    "totalWaga": 70.00180785329879
+  },
+  {
+    "_id": "Female",
+    "avgWaga": 70.11384105960265,
+    "maxWaga": 90.52,
+    "minWaga": 52.15,
+    "totalWaga": 70.11384105960265
+  }
+]

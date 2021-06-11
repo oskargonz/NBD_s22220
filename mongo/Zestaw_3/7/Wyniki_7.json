@@ -1,0 +1,5 @@
+[
+  {
+    "0": "DeprecationWarning: Collection.remove() is deprecated. Use deleteOne, deleteMany or bulkWrite."
+  }
+]

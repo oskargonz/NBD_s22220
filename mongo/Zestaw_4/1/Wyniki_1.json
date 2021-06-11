@@ -1,0 +1,14 @@
+//Byly zmiany na bazie, niektore wyniki moga byc inne w MR i w A
+
+[
+  {
+    "_id": "Male",
+    "avgHeight": 166.74899313962874,
+    "avgWeight": 70.0143179983858
+  },
+  {
+    "_id": "Female",
+    "avgHeight": 166.81260913705583,
+    "avgWeight": 70.11331573604062
+  }
+]

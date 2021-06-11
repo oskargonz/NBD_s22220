@@ -1,0 +1,367 @@
+[
+  {
+    "_id": "SEK",
+    "avgMoney": 5060.013571428572,
+    "totalMoney": 70840.19
+  },
+  {
+    "_id": "CAD",
+    "avgMoney": 5306.872727272727,
+    "totalMoney": 58375.6
+  },
+  {
+    "_id": "MXN",
+    "avgMoney": 5022.9,
+    "totalMoney": 50229
+  },
+  {
+    "_id": "ILS",
+    "avgMoney": 5431.83,
+    "totalMoney": 16295.49
+  },
+  {
+    "_id": "DOP",
+    "avgMoney": 5168.6849999999995,
+    "totalMoney": 20674.739999999998
+  },
+  {
+    "_id": "TZS",
+    "avgMoney": 3526.1850000000004,
+    "totalMoney": 7052.370000000001
+  },
+  {
+    "_id": "RUB",
+    "avgMoney": 4989.547916666666,
+    "totalMoney": 119749.15
+  },
+  {
+    "_id": "VUV",
+    "avgMoney": 6418.27,
+    "totalMoney": 6418.27
+  },
+  {
+    "_id": "XPF",
+    "avgMoney": 4759.07,
+    "totalMoney": 4759.07
+  },
+  {
+    "_id": "HNL",
+    "avgMoney": 5504.863333333334,
+    "totalMoney": 16514.59
+  },
+  {
+    "_id": "MKD",
+    "avgMoney": 3835.05,
+    "totalMoney": 3835.05
+  },
+  {
+    "_id": "XOF",
+    "avgMoney": 5960.683333333333,
+    "totalMoney": 17882.05
+  },
+  {
+    "_id": "CUP",
+    "avgMoney": 5005.78,
+    "totalMoney": 15017.34
+  },
+  {
+    "_id": "TJS",
+    "avgMoney": 4087.71,
+    "totalMoney": 4087.71
+  },
+  {
+    "_id": "ZMW",
+    "avgMoney": 5569.56,
+    "totalMoney": 5569.56
+  },
+  {
+    "_id": "EGP",
+    "avgMoney": 5579.3,
+    "totalMoney": 5579.3
+  },
+  {
+    "_id": "AFN",
+    "avgMoney": 5585.163333333334,
+    "totalMoney": 16755.49
+  },
+  {
+    "_id": "ZWL",
+    "avgMoney": 5792.17,
+    "totalMoney": 5792.17
+  },
+  {
+    "_id": "MGA",
+    "avgMoney": 4853.663333333333,
+    "totalMoney": 14560.99
+  },
+  {
+    "_id": "UAH",
+    "avgMoney": 5058.9800000000005,
+    "totalMoney": 40471.840000000004
+  },
+  {
+    "_id": "KZT",
+    "avgMoney": 3788.95,
+    "totalMoney": 3788.95
+  },
+  {
+    "_id": "CLP",
+    "avgMoney": 5252.2375,
+    "totalMoney": 21008.95
+  },
+  {
+    "_id": "PYG",
+    "avgMoney": 4874.69,
+    "totalMoney": 4874.69
+  },
+  {
+    "_id": "NZD",
+    "avgMoney": 5328.46,
+    "totalMoney": 5328.46
+  },
+  {
+    "_id": "ARS",
+    "avgMoney": 4648.4,
+    "totalMoney": 23242
+  },
+  {
+    "_id": "AMD",
+    "avgMoney": 4921.866,
+    "totalMoney": 24609.33
+  },
+  {
+    "_id": "EUR",
+    "avgMoney": 4901.8294,
+    "totalMoney": 245091.47
+  },
+  {
+    "_id": "NOK",
+    "avgMoney": 4773.66,
+    "totalMoney": 4773.66
+  },
+  {
+    "_id": "MYR",
+    "avgMoney": 4781.12,
+    "totalMoney": 4781.12
+  },
+  {
+    "_id": "IDR",
+    "avgMoney": 4907.918030303031,
+    "totalMoney": 323922.59
+  },
+  {
+    "_id": "BRL",
+    "avgMoney": 4512.001818181819,
+    "totalMoney": 49632.020000000004
+  },
+  {
+    "_id": "CZK",
+    "avgMoney": 4644.5525,
+    "totalMoney": 37156.42
+  },
+  {
+    "_id": "NIO",
+    "avgMoney": 4985.64,
+    "totalMoney": 9971.28
+  },
+  {
+    "_id": "SRD",
+    "avgMoney": 5286.68,
+    "totalMoney": 5286.68
+  },
+  {
+    "_id": "PLN",
+    "avgMoney": 5042.821111111111,
+    "totalMoney": 90770.78
+  },
+  {
+    "_id": "MAD",
+    "avgMoney": 3818.85,
+    "totalMoney": 3818.85
+  },
+  {
+    "_id": "BGN",
+    "avgMoney": 5300.22,
+    "totalMoney": 21200.88
+  },
+  {
+    "_id": "YER",
+    "avgMoney": 4570.833333333333,
+    "totalMoney": 13712.5
+  },
+  {
+    "_id": "RSD",
+    "avgMoney": 4276.56,
+    "totalMoney": 4276.56
+  },
+  {
+    "_id": "BOB",
+    "avgMoney": 5263.3,
+    "totalMoney": 5263.3
+  },
+  {
+    "_id": "PEN",
+    "avgMoney": 4661.235,
+    "totalMoney": 18644.94
+  },
+  {
+    "_id": "IRR",
+    "avgMoney": 4417.373333333333,
+    "totalMoney": 26504.239999999998
+  },
+  {
+    "_id": "HRK",
+    "avgMoney": 4870.964,
+    "totalMoney": 24354.82
+  },
+  {
+    "_id": "ISK",
+    "avgMoney": 4316.41,
+    "totalMoney": 4316.41
+  },
+  {
+    "_id": "JPY",
+    "avgMoney": 5078.7283333333335,
+    "totalMoney": 60944.74
+  },
+  {
+    "_id": "BWP",
+    "avgMoney": 4076.29,
+    "totalMoney": 4076.29
+  },
+  {
+    "_id": "NGN",
+    "avgMoney": 4157.705,
+    "totalMoney": 24946.23
+  },
+  {
+    "_id": "CDF",
+    "avgMoney": 6114.4,
+    "totalMoney": 12228.8
+  },
+  {
+    "_id": "ETB",
+    "avgMoney": 5436.11,
+    "totalMoney": 5436.11
+  },
+  {
+    "_id": "IQD",
+    "avgMoney": 4269.39,
+    "totalMoney": 4269.39
+  },
+  {
+    "_id": "USD",
+    "avgMoney": 4978.732,
+    "totalMoney": 74680.98
+  },
+  {
+    "_id": "VND",
+    "avgMoney": 4520.0325,
+    "totalMoney": 36160.26
+  },
+  {
+    "_id": "COP",
+    "avgMoney": 4936.6825,
+    "totalMoney": 19746.73
+  },
+  {
+    "_id": "LYD",
+    "avgMoney": 4382.495,
+    "totalMoney": 8764.99
+  },
+  {
+    "_id": "UZS",
+    "avgMoney": 3573.03,
+    "totalMoney": 3573.03
+  },
+  {
+    "_id": "MMK",
+    "avgMoney": 4629.42,
+    "totalMoney": 4629.42
+  },
+  {
+    "_id": "ALL",
+    "avgMoney": 3325.48,
+    "totalMoney": 3325.48
+  },
+  {
+    "_id": "ZAR",
+    "avgMoney": 3930.306666666667,
+    "totalMoney": 11790.92
+  },
+  {
+    "_id": "MWK",
+    "avgMoney": 3574.42,
+    "totalMoney": 3574.42
+  },
+  {
+    "_id": "XAF",
+    "avgMoney": 4698.22,
+    "totalMoney": 14094.66
+  },
+  {
+    "_id": "GTQ",
+    "avgMoney": 5806.3,
+    "totalMoney": 5806.3
+  },
+  {
+    "_id": "MNT",
+    "avgMoney": 5428.9025,
+    "totalMoney": 21715.61
+  },
+  {
+    "_id": "PKR",
+    "avgMoney": 4734.5,
+    "totalMoney": 18938
+  },
+  {
+    "_id": "KRW",
+    "avgMoney": 6689.91,
+    "totalMoney": 13379.82
+  },
+  {
+    "_id": "RWF",
+    "avgMoney": 4632.88,
+    "totalMoney": 4632.88
+  },
+  {
+    "_id": "KYD",
+    "avgMoney": 3760.89,
+    "totalMoney": 3760.89
+  },
+  {
+    "_id": "BYR",
+    "avgMoney": 5095.79,
+    "totalMoney": 5095.79
+  },
+  {
+    "_id": "PHP",
+    "avgMoney": 4941.928333333333,
+    "totalMoney": 118606.28
+  },
+  {
+    "_id": "NPR",
+    "avgMoney": 5792.26,
+    "totalMoney": 5792.26
+  },
+  {
+    "_id": "VEF",
+    "avgMoney": 4166.64,
+    "totalMoney": 8333.28
+  },
+  {
+    "_id": "THB",
+    "avgMoney": 4604.392,
+    "totalMoney": 23021.96
+  },
+  {
+    "_id": "GBP",
+    "avgMoney": 6149.19,
+    "totalMoney": 6149.19
+  },
+  {
+    "_id": "CNY",
+    "avgMoney": 4954.740842105263,
+    "totalMoney": 470700.38
+  }
+]
