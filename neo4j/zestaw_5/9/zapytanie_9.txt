@@ -1,0 +1,26 @@
+//Zapytanie_9a
+
+CREATE (movie:Movie {title:"Captain America: The First Avenger", released: 2011, tagline:"When patriots become heroes"}),
+(joe:Person {name:"Joe Johnston", born:1950}),	
+(joe)-[:DIRECTED]->(movie),
+(chrisMarkus:Person {name:"Christopher Markus", born:1970}),
+(chrisMarkus)-[:WROTE]->(movie),
+(stephen:Person {name:"Stephen McFeely", born:1969}),
+(stephen)-[:WROTE]->(movie),
+(chrisEvans:Person {name:"Chris Evans", born:1981}),
+(chrisEvans)-[:ACTED_IN {roles:['Captain America', 'Steve Rogers']}]->(movie),
+(sam:Person {name:"Samuel L. Jackson", born:1948}),
+(sam)-[:ACTED_IN {roles:['Nick Fury']}]->(movie),
+(hayley:Person {name:"Hayley Atwell", born:1982}),
+(hayley)-[:ACTED_IN {roles:['Peggy Carter']}]->(movie),
+(sebastian:Person {name:"Sebastian Stan", born:1982}),
+(sebastian)-[:ACTED_IN {roles:['James Buchanan']}]->(movie);
+
+//Zapytanie_9b
+MATCH (hugo:Person), (m:Movie)
+WHERE hugo.name="Hugo Weaving" AND m.title="Captain America: The First Avenger"
+CREATE (hugo)-[:ACTED_IN {roles: ["Johann Schmidt"]}]->(m)
+    
+//Zapytanie_9c
+MATCH (movie: Movie {title:"Captain America: The First Avenger"})<-[r]-(person:Person)
+RETURN movie, r, person

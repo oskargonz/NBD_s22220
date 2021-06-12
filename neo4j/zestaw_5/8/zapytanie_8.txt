@@ -1,0 +1,3 @@
+//Zwraca z powtórzeniami. Czy to jest ok a jeśli nie to jak to poprawić?
+
+MATCH (hugo:Person {name: "Hugo Weaving"})-[:ACTED_IN]->(m)<-[:ACTED_IN]-(keanu:Person{name:"Keanu Reeves"}) RETURN m, m.title

@@ -1,0 +1,3 @@
+MATCH (director:Person)-[:DIRECTED]->(movie:Movie)<-[:WROTE]-(wroteBy:Person)
+WHERE director = wroteBy
+RETURN director, movie

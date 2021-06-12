@@ -1,0 +1,3 @@
+MATCH (matrix:Movie)-[:ACTED_IN]-(person:Person)-[relatedWith]-(movie:Movie) 
+WHERE matrix.title CONTAINS "Matrix"
+RETURN matrix, person, movie

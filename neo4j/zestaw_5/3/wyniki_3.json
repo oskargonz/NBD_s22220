@@ -1,0 +1,992 @@
+﻿[
+  {
+    "coDirectors": {
+"identity": 108,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Tykwer",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 105,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything is connected",
+"title": "Cloud Atlas",
+"released": 2012
+      }
+    },
+    "hugo": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lana Wachowski",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 105,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything is connected",
+"title": "Cloud Atlas",
+"released": 2012
+      }
+    },
+    "hugo": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Andy Wachowski",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 105,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything is connected",
+"title": "Cloud Atlas",
+"released": 2012
+      }
+    },
+    "hugo": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 25,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "James Marshall",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 114,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Freedom! Forever!",
+"title": "V for Vendetta",
+"released": 2006
+      }
+    },
+    "hugo": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lana Wachowski",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 10,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything that has a beginning has an end",
+"title": "The Matrix Revolutions",
+"released": 2003
+      }
+    },
+    "hugo": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Andy Wachowski",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 10,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything that has a beginning has an end",
+"title": "The Matrix Revolutions",
+"released": 2003
+      }
+    },
+    "hugo": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lana Wachowski",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 9,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Free your mind",
+"title": "The Matrix Reloaded",
+"released": 2003
+      }
+    },
+    "hugo": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Andy Wachowski",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 9,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Free your mind",
+"title": "The Matrix Reloaded",
+"released": 2003
+      }
+    },
+    "hugo": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lana Wachowski",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 0,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Welcome to the Real World",
+"title": "The Matrix",
+"released": 1999
+      }
+    },
+    "hugo": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Andy Wachowski",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 0,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Welcome to the Real World",
+"title": "The Matrix",
+"released": 1999
+      }
+    },
+    "hugo": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 175,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lana Wachowski",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 179,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything that has a beginning has an end",
+"title": "The Matrix Revolutions",
+"released": 2003
+      }
+    },
+    "hugo": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 174,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lilly Wachowski",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 179,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything that has a beginning has an end",
+"title": "The Matrix Revolutions",
+"released": 2003
+      }
+    },
+    "hugo": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 174,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lilly Wachowski",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 274,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything is connected",
+"title": "Cloud Atlas",
+"released": 2012
+      }
+    },
+    "hugo": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 175,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lana Wachowski",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 274,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything is connected",
+"title": "Cloud Atlas",
+"released": 2012
+      }
+    },
+    "hugo": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 277,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Tykwer",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 274,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything is connected",
+"title": "Cloud Atlas",
+"released": 2012
+      }
+    },
+    "hugo": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 175,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lana Wachowski",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 178,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Free your mind",
+"title": "The Matrix Reloaded",
+"released": 2003
+      }
+    },
+    "hugo": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 174,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lilly Wachowski",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 178,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Free your mind",
+"title": "The Matrix Reloaded",
+"released": 2003
+      }
+    },
+    "hugo": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 194,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "James Marshall",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 285,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Freedom! Forever!",
+"title": "V for Vendetta",
+"released": 2006
+      }
+    },
+    "hugo": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 175,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lana Wachowski",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 169,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Welcome to the Real World",
+"title": "The Matrix",
+"released": 1999
+      }
+    },
+    "hugo": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 174,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lilly Wachowski",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 169,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Welcome to the Real World",
+"title": "The Matrix",
+"released": 1999
+      }
+    },
+    "hugo": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 345,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lilly Wachowski",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 349,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Free your mind",
+"title": "The Matrix Reloaded",
+"released": 2003
+      }
+    },
+    "hugo": {
+"identity": 344,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 346,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lana Wachowski",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 349,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Free your mind",
+"title": "The Matrix Reloaded",
+"released": 2003
+      }
+    },
+    "hugo": {
+"identity": 344,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 346,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lana Wachowski",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 340,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Welcome to the Real World",
+"title": "The Matrix",
+"released": 1999
+      }
+    },
+    "hugo": {
+"identity": 344,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 345,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lilly Wachowski",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 340,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Welcome to the Real World",
+"title": "The Matrix",
+"released": 1999
+      }
+    },
+    "hugo": {
+"identity": 344,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 365,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "James Marshall",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 456,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Freedom! Forever!",
+"title": "V for Vendetta",
+"released": 2006
+      }
+    },
+    "hugo": {
+"identity": 344,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 345,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lilly Wachowski",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 350,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything that has a beginning has an end",
+"title": "The Matrix Revolutions",
+"released": 2003
+      }
+    },
+    "hugo": {
+"identity": 344,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 346,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lana Wachowski",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 350,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything that has a beginning has an end",
+"title": "The Matrix Revolutions",
+"released": 2003
+      }
+    },
+    "hugo": {
+"identity": 344,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 345,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lilly Wachowski",
+"born": 1967
+      }
+    },
+    "m": {
+"identity": 445,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything is connected",
+"title": "Cloud Atlas",
+"released": 2012
+      }
+    },
+    "hugo": {
+"identity": 344,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 346,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lana Wachowski",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 445,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything is connected",
+"title": "Cloud Atlas",
+"released": 2012
+      }
+    },
+    "hugo": {
+"identity": 344,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  },
+  {
+    "coDirectors": {
+"identity": 448,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Tykwer",
+"born": 1965
+      }
+    },
+    "m": {
+"identity": 445,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything is connected",
+"title": "Cloud Atlas",
+"released": 2012
+      }
+    },
+    "hugo": {
+"identity": 344,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    }
+  }
+]
