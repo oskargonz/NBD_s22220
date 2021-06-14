@@ -1,0 +1,3 @@
+b'{"index": 5, "isActive": true, "balance": 21449.53, "age": 28, "name": "Janusz Kowalski"}'
+b'{"index": 5, "isActive": true, "balance": 0.53, "age": 29, "name": "Janusz Kowalski"}'
+b'not found\n'
