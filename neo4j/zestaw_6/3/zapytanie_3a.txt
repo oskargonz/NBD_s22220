@@ -1,0 +1,6 @@
+MATCH path = (m:town {name: "Darjeeling"})-[r*]->(n:peak {name: "Sandakphu"})
+UNWIND r as rel
+WITH path, COLLECT(rel.distance) AS all_total_distances
+WITH path, reduce(acc = 0, d in all_total_distances | acc + d) as total_distance
+RETURN path, total_distance
+ORDER BY total_distance ASC
